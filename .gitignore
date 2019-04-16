@@ -1,0 +1,4 @@
+## .gitignore file for webp-wic-codec-scaffold
+
+## ignore folder fetched through gclient
+webp-wic-codec
